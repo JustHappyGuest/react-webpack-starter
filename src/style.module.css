@@ -1,0 +1,6 @@
+:global(.app){
+    background-color: green;
+    position: sticky;
+    display: grid;
+    grid-column-gap: 2;
+}
